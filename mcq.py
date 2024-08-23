@@ -66,4 +66,4 @@ print(0.2+0.4==0.6)
 my_str=['ram',"has","red",'cap']
 list=''.join(my_str)
 print(my_str)
-
+#option D is the answer
